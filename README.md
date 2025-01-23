@@ -1,5 +1,5 @@
 # TransitWallet Project
-![Transit Wallet Thumbnail](./assets/thumbnail-digitalwallet.jpg)
+![Transit Wallet Thumbnail](https://github.com/Edna722/transit-wallet/blob/main/thumbnail-digitalwallet.jpg.thumb.1280.1280.jpg?raw=true)
 
 This innovative mobile app was developed as part of the Intasend Hackathon and aims to revolutionize payment solutions in the transit industry. With a seamless and user-friendly experience, Transit Wallet allows users to manage their expenses, view real-time transaction history, and receive instant notifications. Security and transparency are at the core of this app, ensuring a safe and fraud-free environment for every transaction.
 
